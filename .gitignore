@@ -4,6 +4,6 @@ __pycache__/
 data/raw/
 *.xlsx
 *.csv
-!dataset_analitico_principal.csv
-!data/processed/visualizaciones/tabla_resultados_estadisticos.xlsx
+!data/processed/datasets_analiticos/*.csv
+!data/processed/visualizaciones/*.xlsx
 .DS_Store

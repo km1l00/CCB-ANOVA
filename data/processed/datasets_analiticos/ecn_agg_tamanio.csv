@@ -1,0 +1,12 @@
+﻿año,tamanio_cat,n_empresas,indice_clima_prom,pct_ventas_subio,pct_credito_obtuvo
+2022,Microempresa,1545,0.6369,0.6369,
+2022,Pequeña,426,0.7371,0.7371,
+2022,Mediana,184,0.5761,0.5761,
+2022,Grande,73,0.4658,0.4658,
+2023,Microempresa,2347,0.0856,0.0004,0.289
+2023,Pequeña,121,0.1157,0.0083,0.5625
+2023,Mediana,35,0.0857,0.0,0.6
+2023,Grande,15,0.1333,0.0,0.6667
+2024,Microempresa,666,0.1464,0.0,1.0
+2024,Pequeña,815,0.1301,0.0061,1.0
+2024,Mediana,1068,0.169,0.0056,1.0
